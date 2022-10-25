@@ -1,0 +1,20 @@
+body{
+background-color: yellow;
+}
+button{
+    background-color: rgb(0, 128, 255);
+    color: black;
+    border-color: black 25px;
+    height: 50px;
+    width:80px;
+}
+img{
+    width:50px;
+    height:40px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    border-color: red;
+}
+
